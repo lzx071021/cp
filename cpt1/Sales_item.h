@@ -38,7 +38,6 @@
 // we're here only if SALESITEM_H has not yet been defined 
 #define SALESITEM_H
 
-#include "Version_test.h" 
 
 // Definition of Sales_item class and related functions goes here
 #include <iostream>
